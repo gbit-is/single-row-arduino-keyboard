@@ -1,4 +1,5 @@
-# single-row-arduino-keyboard
+# SRAK
+## Single Row Arduino Keyboard
 
 # What is it ?
 a code snipped to create a small, cheap keyboard without resistors, diodes or a matrix configuration. Simple solution for a small macropad for example. This supports a maximum of 16 keys.
